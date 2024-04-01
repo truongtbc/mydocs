@@ -1,0 +1,13 @@
+1. tập trung vào lĩnh vực thương mại điện tử, tận dụng tối đa lợi ích magento có thể mang lại:
+1.1. tính thương mại
+1.2. tính toàn cầu hóa (k cần cho hiện tại, có thể phát triển điều này trong tương lai)
+1.3. trang web quản lý (backend) mang tính chất thống kê
+1.4. sử dụng thế mạnh về chế độ cron (gửi mail tự động, ...)ca
+2. chủ đề đó phải có hứng thú
+3. không bị trùng
+4. việc khảo sát không quá phức tạp
+
+
+
+- Chủ đề đáp ứng:
+	- Sản phẩm mang đặc trưng của Việt Nam
